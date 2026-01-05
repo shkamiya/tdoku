@@ -8,6 +8,7 @@
 #include <map>
 #include <set>
 #include <vector>
+#include <cstdint>
 
 using namespace std;
 
